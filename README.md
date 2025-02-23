@@ -29,3 +29,5 @@ Docs at [onslaught_arenakit.run](https://onslaught_arenakit.run)
 MIT © 2025
 
 # PR Merge: 2025-10-22 - docs/merge-8452
+
+# PR Merge: 2025-10-22 - docs/merge-7669
